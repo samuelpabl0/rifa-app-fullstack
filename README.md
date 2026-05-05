@@ -19,6 +19,13 @@ A complete raffle (ticket sales) system with admin dashboard, ticket tracking an
 - Database: SQLite (better-sqlite3)
 - Other: Multer (uploads), CORS
 
+- ## 📸 Preview
+
+![Admin Panel](./Frontend/screenshots/admin.png)
+![Admin Panel](./Frontend/screenshots/login.png)
+![Raffle Page](./Frontend/screenshots/admin.png)
+![Raffle Page](./Frontend/screenshots/sorteio.png)
+
 ## ⚙️ How to Run Locally
 
 ### Backend
