@@ -1,0 +1,36 @@
+{
+  "reason": "before-remove-winner",
+  "createdAt": "2026-05-04T01:29:01.683Z",
+  "orders": [
+    {
+      "id": 12,
+      "name": "samuel silva ",
+      "whatsapp": "31973002355",
+      "numbers": "[11,10,12]",
+      "status": "paid",
+      "expires_at": null
+    }
+  ],
+  "settings": [
+    {
+      "key": "imageUrl",
+      "value": ""
+    },
+    {
+      "key": "title",
+      "value": "Igreja Missão FIladélfia "
+    },
+    {
+      "key": "prize",
+      "value": "Kit Perfume Lilly "
+    },
+    {
+      "key": "price",
+      "value": "50"
+    },
+    {
+      "key": "winner",
+      "value": "{\"number\":12,\"name\":\"samuel silva \",\"whatsapp\":\"31973002355\"}"
+    }
+  ]
+}

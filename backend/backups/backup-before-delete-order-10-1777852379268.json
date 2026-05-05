@@ -1,0 +1,36 @@
+{
+  "reason": "before-delete-order-10",
+  "createdAt": "2026-05-03T23:52:59.268Z",
+  "orders": [
+    {
+      "id": 10,
+      "name": "Carlos",
+      "whatsapp": "31973002355",
+      "numbers": "[5]",
+      "status": "paid",
+      "expires_at": null
+    }
+  ],
+  "settings": [
+    {
+      "key": "imageUrl",
+      "value": ""
+    },
+    {
+      "key": "title",
+      "value": "Igreja Missão FIladélfia "
+    },
+    {
+      "key": "prize",
+      "value": "Kit Perfume Lilly "
+    },
+    {
+      "key": "price",
+      "value": "50"
+    },
+    {
+      "key": "winner",
+      "value": ""
+    }
+  ]
+}

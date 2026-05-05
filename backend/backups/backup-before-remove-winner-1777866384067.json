@@ -1,0 +1,36 @@
+{
+  "reason": "before-remove-winner",
+  "createdAt": "2026-05-04T03:46:24.067Z",
+  "orders": [
+    {
+      "id": 12,
+      "name": "samuel silva ",
+      "whatsapp": "31973002355",
+      "numbers": "[11,10,12]",
+      "status": "paid",
+      "expires_at": null
+    }
+  ],
+  "settings": [
+    {
+      "key": "imageUrl",
+      "value": ""
+    },
+    {
+      "key": "title",
+      "value": "Rifa Beneficente"
+    },
+    {
+      "key": "prize",
+      "value": "Prêmio não definido"
+    },
+    {
+      "key": "price",
+      "value": "2"
+    },
+    {
+      "key": "winner",
+      "value": ""
+    }
+  ]
+}
