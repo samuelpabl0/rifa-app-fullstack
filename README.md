@@ -21,9 +21,9 @@ A complete raffle (ticket sales) system with admin dashboard, ticket tracking an
 
 ## 📸 Preview
 
-![Admin Login](./Frontend/screenshots/login.png)
-![Admin Dashboard](./Frontend/screenshots/admin.png)
-![Raffle Page](./Frontend/screenshots/sorteio.png)
+![Admin Login](./frontend/screenshots/login.png)
+![Admin Dashboard](./frontend/screenshots/admin.png)
+![Raffle Page](./frontend/screenshots/sorteio.png)
 
 ## ⚙️ How to Run Locally
 
