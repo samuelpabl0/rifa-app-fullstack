@@ -1,7 +1,29 @@
-# rifa-app-fullstack
-Fullstack raffle management system with admin panel, ticket tracking and payment control built using Node.js, React and SQLite.
+# 🎟️ Raffle App (Fullstack)
 
-🧠 Descrição clara (o que o sistema faz)
-⚙️ Tecnologias: Node.js, Express, React, Vite, SQLite
-📸 Prints (muito importante)
-🚀 Como rodar local
+A complete raffle (ticket sales) system with admin dashboard, ticket tracking and payment management.
+
+## 🚀 Features
+
+- Admin login with authentication
+- Ticket selection and order system
+- Payment confirmation (manual control)
+- Real-time raffle progress
+- Winner draw system
+- Image upload for raffle items
+- Persistent data using SQLite
+
+## 🧠 Tech Stack
+
+- Frontend: React + Vite
+- Backend: Node.js + Express
+- Database: SQLite (better-sqlite3)
+- Other: Multer (uploads), CORS
+
+## ⚙️ How to Run Locally
+
+### Backend
+
+```bash
+cd backend
+npm install
+node src/server.js
